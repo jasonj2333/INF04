@@ -9,7 +9,7 @@ public:
     /*UWAGA:
     Klasa abstrakcyjna może zawierać deklaracje zwyklech - instancyjnych zmiennych i metod członkowskich.*/
 
-    //Deklaracja (prototyp) metody abstrkacyjnej - funkcji czysto wirtualnej
+    //Deklaracja (prototyp) metody abstrakcyjnej - funkcji czysto wirtualnej
     virtual void wyswietlDane() = 0;
 };
 
